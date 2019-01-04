@@ -105,3 +105,4 @@ venv.bak/
 
 
 "1. Movie recommendation/data/imdb_images/" 
+*.png
